@@ -1,6 +1,7 @@
 ## Hi I'am ANKIT KUMAT UPADHYAY👋
 
 🎓 Computer Science Student at NOIDA Institute of Engineering and Technology
+
 💡 Passionate about Web Development, DSA, Data Science, and Open-Source
 
 
