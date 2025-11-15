@@ -21,9 +21,9 @@
 ---
 
 ## 🌍 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar%20Upadhyay-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankit-upadhyay-9734a424b))  
-[![Instagram](https://img.shields.io/badge/Instagram-Ankit%20Upadhyay-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/your-profile](https://www.instagram.com/imanki_t09))  
-[![GitHub](https://img.shields.io/badge/GitHub-Ankit%20Upadhyay-181717?style=flat&logo=github)](https://github.com/imankit-0921)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Kumar%20Upadhyay-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/ankit-upadhyay-9734a424b))  
+[![Instagram](https://img.shields.io/badge/Instagram-Ankit%20Kumar%20Upadhyay-E4405F?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/imanki_t09))  
+[![GitHub](https://img.shields.io/badge/GitHub-Ankit%20Kumar%20Upadhyay-181717?style=flat&logo=github)](https://github.com/imankit-0921)  
 📧 Email: uankit348@gmail.com  
 
 
